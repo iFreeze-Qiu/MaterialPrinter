@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialPrinter", "MaterialPrinter\MaterialPrinter.csproj", "{EB877202-3209-4C83-97F4-5278ADD1986E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB877202-3209-4C83-97F4-5278ADD1986E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB877202-3209-4C83-97F4-5278ADD1986E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB877202-3209-4C83-97F4-5278ADD1986E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB877202-3209-4C83-97F4-5278ADD1986E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MaterialPrinter\MaterialPrinter.csproj
+	EndGlobalSection
+EndGlobal
